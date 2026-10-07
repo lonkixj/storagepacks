@@ -1,9 +1,9 @@
 [
   {
-    "name": "Faintful",
-    "description": "Очень крутой пак",
+    "name": "Название пака",
+    "description": "Короткое описание",
     "image": "https://raw.githubusercontent.com/lonkixj/storagepacks/main/preview.png",
-    "download": "",
+    "download": "https://ссылка_на_скачивание",
     "version": "1.21"
   }
 ]
