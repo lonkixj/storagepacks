@@ -1,9 +1,22 @@
 [
   {
-    "name": "Фембой пак",
-    "description": "это очень милый фембойчик",
-    "image": "https://raw.githubusercontent.com/lonkixj/storagepacks/main/Screenshot_2026-10-03-21-39-27-323_jp.ne.ibis.ibispaintx.app.jpg",
+    "id": "femboy-pack",
+    "name": "FEMBOY pack",
+    "description": "Короткое описание пака",
+    "image": "https://raw.githubusercontent.com/lonkixj/storagepacks/main/preview1.jpg",
     "download": "https://raw.githubusercontent.com/lonkixj/storagepacks/main/FEMBOY%20pack.mcpack",
-    "version": "1.21"
+    "version": "1.21",
+    "size": 45,
+    "tags": ["Милые", "Femboy"]
+  },
+  {
+    "id": "second-pack",
+    "name": "Второй пак",
+    "description": "Ещё одно описание",
+    "image": "",
+    "download": "https://github.com/lonkixj/storagepacks/releases/download/v1.0/second-pack.mcpack",
+    "version": "1.21",
+    "size": "120 МБ",
+    "tags": ["PvP"]
   }
 ]
